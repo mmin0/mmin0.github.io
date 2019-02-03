@@ -1,10 +1,19 @@
 ---
 layout: page
-title: Resources
+title: Teaching Assistant Experiance
 ---
 
-### Master Thesis
+### UCSB
+#### Undergraduate
+* **2018 Fall**: Probability and Statistics - PSTAT 120A*  
+* **2019 Winter**: Risk Theory - PSTAT 173 *
+#### Graduate
 
-* **ComLex**: An emotional and topical lexicon of 300 clusters, generated from user comments on social media.  
-*Only 56 named clusters are human evaluated.*  
-\[ [Download](ComLex.csv){:target="_blank"} \]
+### WPI
+#### Undergraduate
+* **2017 Fall**: Probability - MA 2631, Financial Mathematics I - MA 571*  
+
+#### Graduate
+* **2017 Fall**: Financial Mathematics I - MA 571*
+* **2018 Spring**: Financial Mathematics II - MA 572*
+* **2018 Spring**: Computational Methods for Financial Mathematics - MA 573*
