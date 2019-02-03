@@ -1,8 +1,0 @@
-@inproceedings{yang2014combination,
-	title = {Combination Feature for Image Retrieval in the Distributed Datacenter},
-	author = {Yang, Di and Liao, Jianxin and Qi, Qi and Wang, Jingyu and Sun, Haifeng and Jiang, Shan},
-	booktitle = {Proceedings of the 2014 IEEE 20th International Conference on Parallel and Distributed Systems (ICPADS 2014)},
-	pages = {693--700},
-	year = {2014},
-	organization = {IEEE}
-}
