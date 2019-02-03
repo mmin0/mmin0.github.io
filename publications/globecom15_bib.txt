@@ -1,9 +1,0 @@
-@inproceedings{jiang2015interactions,
-	title = {Interactions among Overlays and Traffic Engineering: Equilibrium and Cooperation without Payment},
-	author = {Jiang, Shan and Gong, Jun and Wang, Jingyu and Liao, Jianxin and Li, Tonghong},
-	booktitle = {Proceedings of the 2015 IEEE 58th Global Communications Conference (GLOBECOM 2015)},
-	pages = {1--7},
-	month = {December},
-	year = {2015},
-	organization = {IEEE}
-}
