@@ -1,0 +1,8 @@
+@inproceedings{hu2018auditing,
+	author = {Ming Min},
+	title = {Numerical Methods for European Option Pricing with BSDEs},
+	booktitle = {Worcester Polytechnic Institute ETD},
+	address = {Worcester, MA, USA},
+	month = {April},
+	year = {2018}
+}
