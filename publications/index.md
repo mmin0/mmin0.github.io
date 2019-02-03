@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**Master Thesis
+### Master Thesis
 * **Numerical Methods for European Options Pricing with BSDEs**  
 Ming Min  
 Worcester Polytechnic Institute, Worcester, MA, USA, Aprial 2018  
