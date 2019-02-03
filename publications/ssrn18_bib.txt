@@ -1,0 +1,8 @@
+@article{lee2018surge,
+	title = {Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber},
+	author = {Kyungmin Brad Lee and Marcus Bellamy and Nitin Joglekar and Shan Jiang and Christo Wilson},
+	journal = {SSRN},
+	volume = {3261811},
+	number = {10},
+	year = {2018}
+}

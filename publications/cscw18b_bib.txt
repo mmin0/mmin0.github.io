@@ -1,0 +1,11 @@
+@article{ronald2018auditing,
+	author = {Ronald E. Robertson and Shan Jiang and Kenneth Joseph and Lisa Friedland and David Lazer and Christo Wilson},
+	title = {Auditing Partisan Audience Bias within Google Search},
+	journal = {Proceedings of the ACM: Human-Computer Interaction (PACMHCI)},
+	volume = {2},
+	issue = {CSCW},
+	pages = {148},
+	month = {November},
+	year = {2018},
+	publisher = {ACM}
+}

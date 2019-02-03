@@ -1,0 +1,8 @@
+@inproceedings{jiang2018ridesharing,
+	author = {Shan Jiang and Le Chen and Alan Mislove and Christo Wilson},
+	title = {On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi},
+	booktitle = {Proceedings of the 2018 Web Conference (WWW 2018)},
+	address = {Lyon, France},
+	month = {April},
+	year = {2018}
+}

@@ -1,0 +1,8 @@
+@inproceedings{jiang2015competitive,
+	title = {Competitive Equilibrium and Stable Coalition in Overlay Environments},
+	author = {Jiang, Shan and Liao, Jianxin and Gong, Jun and Wang, Jingyu and Li, Tonghong},
+	booktitle = {Proceedings of the 2015 IEEE 40th Conference on Local Computer Networks (LCN 2015)},
+	pages = {365--372},
+	year = {2015},
+	organization = {IEEE Computer Society}
+}

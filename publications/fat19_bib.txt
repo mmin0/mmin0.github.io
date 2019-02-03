@@ -1,0 +1,8 @@
+@inproceedings{jiang2019who,
+	author = {Shan Jiang and John Martin and Christo Wilson},
+	title = {Who's the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild},
+	booktitle = {Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (FAT* 2019)},
+	address = {Atlanta, GA, USA},
+	month = {January},
+	year = {2019}
+}
