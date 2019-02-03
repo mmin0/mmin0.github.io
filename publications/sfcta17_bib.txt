@@ -1,7 +1,0 @@
-@article{castiglione2017tncs,
-	title = {TNCs Today: A Profile of San Francisco Transportation Network Company Activity},
-	author = {Joe Castiglione and Tilly Chang and Drew Cooper and Jeff Hobson and Warren Logan and Eric Young and Billy Charlton and Christo Wilson and Alan Mislove and Le Chen and Shan Jiang},
-	journal = {San Francisco County Transportation Authority Report (SFCTA Report)},
-	month = {June},
-	year = {2016}
-}
