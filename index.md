@@ -9,4 +9,4 @@ My research will be focused around **financial mathematics**, including **portfo
 
 If you'd like to talk about my research or new project ideas, I'm always available at [m_min@pstat.ucsb.edu](mailto:m_min@pstat.ucsb.edu){:target="_blank"}.
 
-Before joining UCSB, I got my M.S. in Financial Mathematics from [Department of Mathematical Science, Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/mathematical-sciences){:target="_blank"}, Massachusetts, US at 2018, and received my B.S. degree from  at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn){:target="_blank"}, Beijing, China.
+Before joining UCSB, I got my M.S. in Financial Mathematics from [Department of Mathematical Science, Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/mathematical-sciences){:target="_blank"}, Massachusetts, US at 2018, and received my B.S. degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn){:target="_blank"}, Beijing, China.
