@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Teaching Assistant Experiance
+title: Teaching
 ---
+
+## TA Experience
 
 ### UCSB
 #### Undergraduate
