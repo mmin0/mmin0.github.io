@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Research
+title: Small Exercise
 ---
 
 ### Interesting Problems
-\begin{align*}
-\pi
-\end{align*}
+Here I will post some interesting small exercises. Most of them are easy to solve if you have astrong background in Probability and Stochastic Process.
