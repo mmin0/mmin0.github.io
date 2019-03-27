@@ -19,3 +19,5 @@ title: Teaching
 * **2017 Fall**: Financial Mathematics I - MA 571
 * **2018 Spring**: Financial Mathematics II - MA 572
 * **2018 Spring**: Computational Methods for Financial Mathematics - MA 573
+
+### Here I post some interesting problems, most of them are easy to solve.
