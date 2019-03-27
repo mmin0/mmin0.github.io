@@ -9,6 +9,7 @@ title: Teaching
 #### Undergraduate
 * **2018 Fall**: Probability and Statistics - PSTAT 120A  
 * **2019 Winter**: Risk Theory - PSTAT 173
+
 #### Graduate
 
 ### WPI
