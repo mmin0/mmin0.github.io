@@ -9,12 +9,14 @@ title: Teaching
 #### Undergraduate
 * **2018 Fall**: Probability and Statistics - PSTAT 120A  
 * **2019 Winter**: Risk Theory - PSTAT 173
+* **2019 Spring**: Statistics - PSTAT 5A
 
 #### Graduate
 
 ### WPI
 #### Undergraduate
-* **2017 Fall**: Probability - MA 2631, Financial Mathematics I - MA 571  
+* **2017 Fall**: Probability - MA 2631
+* **2017 Fall**: Calculus II - MA 1022
 
 #### Graduate
 * **2017 Fall**: Financial Mathematics I - MA 571
