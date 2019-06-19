@@ -7,9 +7,11 @@ title: Teaching
 
 ### UCSB
 #### Undergraduate
-* **2018 Fall**: Probability and Statistics - PSTAT 120A  
-* **2019 Winter**: Risk Theory - PSTAT 173
+* **2019 Summer**: SAS Base Programming - PSTAT 130
 * **2019 Spring**: Statistics - PSTAT 5A
+* **2019 Winter**: Risk Theory - PSTAT 173
+* **2018 Fall**: Probability and Statistics - PSTAT 120A
+
 
 #### Graduate
 
