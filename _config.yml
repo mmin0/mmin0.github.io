@@ -40,8 +40,10 @@ minima:
 header_pages:
  - index.md
  - publications/index.md
+ - teaching/index.md
  - resources/index.md
  - problems/index.md
+
 
 # Build settings
 theme: minima
