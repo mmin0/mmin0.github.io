@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello! I’m Ming Min, a 2nd-year Ph.D. student at [Department of Statistics & Applied Probability](http://www.pstat.ucsb.edu){:target="_blank"}, University of California, Santa Barbara, CA.
+Hello! I’m Ming Min, a 2nd-year Ph.D. student at [Department of Statistics & Applied Probability](http://www.pstat.ucsb.edu){:target="_blank"}, University of California, Santa Barbara, CA. I have passed all PhD qualify exams in September, 2019.
 
 My research will be focused on **financial mathematics**, including **portfolio optimization**, **derivatives pricing**, **systematic risk** and so on. Recently, I'm working on preparation towards my research. For more details, please check my [curriculum vitae](CV.pdf){:target="_blank"}. 
 
