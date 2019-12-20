@@ -7,23 +7,23 @@ title: Teaching
 
 ### UCSB
 #### Undergraduate
-* **2019 Fall**: Applied Stochastic Processes I - PSTAT 160A
-* **2019 Summer**: SAS Base Programming - PSTAT 130
-* **2019 Spring**: Statistics - PSTAT 5A
-* **2019 Winter**: Risk Theory - PSTAT 173
-* **2018 Fall**: Probability and Statistics - PSTAT 120A
+* Applied Stochastic Processes (PSTAT 160A, Fall '19, Winter '20)
+* SAS Base Programming (PSTAT 130, Summer '19)
+* Statistics (PSTAT 5A, Spring '19)
+* Risk Theory (PSTAT 173, Winter '19)
+* Probability and Statistics (PSTAT 120A, Fall '18)
 
 
 #### Graduate
-* **2020 Winter**: Introduction to Probability Theory and Stochastic Processes - PSTAT 213B
+* Introduction to Probability Theory and Stochastic Processes (PSTAT 213B, Winter '20)
 
 ### WPI
 #### Undergraduate
-* **2017 Fall**: Probability - MA 2631
-* **2017 Fall**: Calculus II - MA 1022
+* Probability (MA 2631, Fall '17)
+* Calculus II (MA 1022, Fall '17)
 
 #### Graduate
-* **2017 Fall**: Financial Mathematics I - MA 571
-* **2018 Spring**: Financial Mathematics II - MA 572
-* **2018 Spring**: Computational Methods for Financial Mathematics - MA 573
+* Financial Mathematics I (MA 571, Fall '17)
+* Financial Mathematics II (MA 572, Spring '18)
+* Computational Methods for Financial Mathematics (MA 573, Spring '18)
 
