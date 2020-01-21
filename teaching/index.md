@@ -15,7 +15,7 @@ title: Teaching
 
 
 #### Graduate
-* Introduction to Probability Theory and Stochastic Processes (PSTAT 213B, Winter '20)
+* [Introduction to Probability Theory and Stochastic Processes (PSTAT 213B, Winter '20)](213B_winter_20_mmin.pdf){:target="_blank"}
 
 ### WPI
 #### Undergraduate
