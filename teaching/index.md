@@ -7,7 +7,7 @@ title: Teaching
 
 ### UCSB
 #### Undergraduate
-* Applied Stochastic Processes (PSTAT 160A, Fall '19, Winter '20)
+* Applied Stochastic Processes (PSTAT 160A, Fall '19, Winter '20, Spring '20)
 * SAS Base Programming (PSTAT 130, Summer '19)
 * Statistics (PSTAT 5A, Spring '19)
 * Risk Theory (PSTAT 173, Winter '19)
