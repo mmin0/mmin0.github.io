@@ -4,7 +4,7 @@ title: Research
 ---
 
 ### Preprints
-* **Convolutional Signature for Sequential Data**
+* **Convolutional Signature for Sequential Data** arXiv:2009.06719  
 Ming Min, Tomoyuki Ichiba
 
 
