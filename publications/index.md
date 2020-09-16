@@ -3,6 +3,11 @@ layout: page
 title: Research
 ---
 
+### Preprints
+* **Convolutional Signature for Sequential Data** arXiv:2009.06719
+Ming Min, Tomoyuki Ichiba
+
+
 ### Master Thesis
 * **Numerical Methods for European Options Pricing with BSDEs**  
 Ming Min  
