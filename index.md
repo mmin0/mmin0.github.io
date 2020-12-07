@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello! I’m Ming Min, a 2nd-year Ph.D. student at [Department of Statistics & Applied Probability](http://www.pstat.ucsb.edu){:target="_blank"}, University of California, Santa Barbara, CA.
+Hello! I’m Ming Min, a 3rd-year Ph.D. candidate at [Department of Statistics & Applied Probability](http://www.pstat.ucsb.edu){:target="_blank"}, University of California, Santa Barbara, CA.
 
 I'm interested in **financial mathematics**, including **portfolio optimization**, **derivatives pricing**, **systematic risk** under the stochastic environment. Recently, I'm working on **signature**, **rough path theory** and their application in data science. For more details, please check my [curriculum vitae](CV.pdf){:target="_blank"}. 
 
