@@ -11,12 +11,14 @@ title: Teaching
 * SAS Base Programming (PSTAT 130, Summer '19, Summer '20)
 * Statistics (PSTAT 5A, Spring '19)
 * Risk Theory (PSTAT 173, Winter '19)
-* Probability and Statistics (PSTAT 120A, Fall '18)
+* Probability and Statistics (PSTAT 120A, Fall '18, Fall '20)
+* Introduction to Mathematical Finance (PSTAT 170, Winter '21)
 
 
 #### Graduate
 * Introduction to Probability Theory and Stochastic Processes (PSTAT 213C, Spring '20)
 * Introduction to Probability Theory and Stochastic Processes (PSTAT 213B, Winter '20)
+* Advanced Mathematical Finance (PSTAT 176/276, Spring '21)
 
 ### WPI
 #### Undergraduate
