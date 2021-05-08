@@ -2,10 +2,13 @@
 layout: page
 title: Research
 ---
+### Paper
+* **Signatured Deep Fictitious Play for Mean Field Games with Common Noise** Ming Min, Ruimeng Hu
+
+  **International Conference on Machine Learning (ICML)**, to appear
 
 ### Preprints
-* **Convolutional Signature for Sequential Data** [arXiv:2009.06719](https://arxiv.org/abs/2009.06719){:target="_blank"}  
-Ming Min, Tomoyuki Ichiba
+* **Convolutional Signature for Sequential Data** [arXiv:2009.06719](https://arxiv.org/abs/2009.06719){:target="_blank"} Ming Min, Tomoyuki Ichiba
 
 
 ### Master Thesis
