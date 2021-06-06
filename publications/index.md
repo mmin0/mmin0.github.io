@@ -7,7 +7,7 @@ title: Research
 
   **International Conference on Machine Learning (ICML), 2021**, Accepted
   
-  ![figure](SigDFM_icml.png)
+  ![figure](SigDFP_icml.png)
 
 ### Preprints
 * Convolutional Signature for Sequential Data, [arXiv:2009.06719](https://arxiv.org/abs/2009.06719){:target="_blank"} (with Tomoyuki Ichiba)
