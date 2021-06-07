@@ -7,7 +7,7 @@ title: Research
 
   **International Conference on Machine Learning (ICML), 2021**, Accepted
   
-  \[[figure](SigDFP_icml.png)\]
+  \[ [figure](SigDFP_icml.png) \] \[ [code](https://github.com/mmin0/SigDFP) \] \[ arXiv \]
 
 ### Preprints
 * Convolutional Signature for Sequential Data, [arXiv:2009.06719](https://arxiv.org/abs/2009.06719){:target="_blank"} (with Tomoyuki Ichiba)
