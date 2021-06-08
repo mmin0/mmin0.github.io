@@ -14,6 +14,6 @@ title: Research
 
 ### Master Thesis
 * Numerical Methods for European Options Pricing with BSDEs  
-Worcester Polytechnic Institute, Worcester, MA, USA, April 2018  
-\[ [PDF](thesis_template.pdf){:target="_blank"} \]
+Worcester Polytechnic Institute, Worcester, MA, USA, April 2018  \
+\[ [PDF](thesis_template.pdf) \]
 
