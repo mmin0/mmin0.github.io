@@ -7,11 +7,12 @@ title: Research
 
   **International Conference on Machine Learning (ICML), 2021**, Accepted
   
-  \[ [figure](SigDFP_icml.png) \] \[ [code](https://github.com/mmin0/SigDFP) \] \[ arXiv \]
+  \[ [figure](SigDFP_icml.png) \] \[ [code](https://github.com/mmin0/SigDFP) \] \[ arXiv(https://arxiv.org/abs/2106.03272) \]
 
 ### Preprints
-* Convolutional Signature for Sequential Data, [arXiv:2009.06719](https://arxiv.org/abs/2009.06719){:target="_blank"} (with Tomoyuki Ichiba)
+* Convolutional Signature for Sequential Data (with Tomoyuki Ichiba)
 
+\[ code \] \[ arXiv(https://arxiv.org/abs/2009.06719) \]
 
 ### Master Thesis
 * Numerical Methods for European Options Pricing with BSDEs  
