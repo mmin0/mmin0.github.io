@@ -12,7 +12,7 @@ title: Research
 ### Preprints
 * Convolutional Signature for Sequential Data (with Tomoyuki Ichiba)
 
-\[ [code](https://github.com/mmin0/CNNSig) \] \[ [arXiv](https://arxiv.org/abs/2009.06719) \]
+  \[ [code](https://github.com/mmin0/CNNSig) \] \[ [arXiv](https://arxiv.org/abs/2009.06719) \]
 
 ### Master Thesis
 * Numerical Methods for European Options Pricing with BSDEs  
