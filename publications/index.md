@@ -10,7 +10,7 @@ title: Research
 
 * *Signatured Deep Fictitious Play for Mean Field Games with Common Noise* (with Ruimeng Hu)\
   **International Conference on Machine Learning (ICML), 2021**, Accepted \
-  [<span class="label label-grey">Journal</span>](http://proceedings.mlr.press/v139/min21a.html) \[[arXiv](https://arxiv.org/abs/2106.03272)\]\[[figure](SigDFP_icml.png)\]\[[code](https://github.com/mmin0/SigDFP)\]\[[bib](pmlr-v139-min21a.bib)\]
+  [<span class="label label-grey">Journal</span>](http://proceedings.mlr.press/v139/min21a.html) [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2106.03272) [<span class="label label-grey">figure</span>](SigDFP_icml.png) [<span class="label label-grey">code</span>](https://github.com/mmin0/SigDFP) [<span class="label label-grey">bib</span>](pmlr-v139-min21a.bib)
   
 * *Convolutional Signature for Sequential Data* (with Tomoyuki Ichiba) \
   To appear in **Digital Finance** \
