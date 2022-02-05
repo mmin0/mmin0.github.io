@@ -194,6 +194,34 @@ pre {
   }
 }
 
+/**
+ * Label
+ */
+
+.label {
+    display: inline;
+    padding: .18em .56em .18em;
+    font-size: 75%;
+    font-weight: 500;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .4em;
+}
+
+.label-grey {
+    background-color: $grey-color;
+}
+
+.label-brand {
+    background-color: $brand-color-light;
+}
+
+.label-brand-dark {
+    background-color: $brand-color-dark;
+}
 
 
 /**
