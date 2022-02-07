@@ -10,7 +10,6 @@ title: Research
 
 * *Signatured Deep Fictitious Play for Mean Field Games with Common Noise* (with Ruimeng Hu)\
   **International Conference on Machine Learning (ICML), 2021**, Accepted  
-  [journal](http://proceedings.mlr.press/v139/min21a.html) 
   [<span class="label label-default">journal</span>](http://proceedings.mlr.press/v139/min21a.html) 
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2106.03272) 
   [<span class="label label-grey">figure</span>](SigDFP_icml.png) 
