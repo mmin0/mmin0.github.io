@@ -6,7 +6,7 @@ title: Research
 * *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba), submitted
 
 * *Sample-Efficient Reinforcement Learning with* loglog(T) *Switching Cost* (with Dan Qiao, Ming Yin, Yuxiang Wang), submitted  
-  [<span class=""label label-grey>arXiv</span>](https://arxiv.org/abs/2202.06385)
+  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.06385)
 
 
 * *Signatured Deep Fictitious Play for Mean Field Games with Common Noise* (with Ruimeng Hu)\
