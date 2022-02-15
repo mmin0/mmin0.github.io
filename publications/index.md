@@ -19,8 +19,8 @@ title: Research
   
 * *Convolutional Signature for Sequential Data* (with Tomoyuki Ichiba) \
   To appear in **Digital Finance**  
+  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2009.06719) 
   [<span class="label label-grey">code</span>](https://github.com/mmin0/CNNSig)
-  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2009.06719)
 
 
 ### Master Thesis
