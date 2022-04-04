@@ -3,9 +3,11 @@ layout: page
 title: Research
 ---
 ### Paper
-* *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba), submitted
+* *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba), submitted  
+  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.09354)
 
-* *Sample-Efficient Reinforcement Learning with* loglog(T) *Switching Cost* (with Dan Qiao, Ming Yin, Yuxiang Wang), submitted
+* *Sample-Efficient Reinforcement Learning with* loglog(T) *Switching Cost* (with Dan Qiao, Ming Yin, Yuxiang Wang), submitted  
+  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.06385)
 
 
 * *Signatured Deep Fictitious Play for Mean Field Games with Common Noise* (with Ruimeng Hu)\
@@ -18,8 +20,8 @@ title: Research
   
 * *Convolutional Signature for Sequential Data* (with Tomoyuki Ichiba) \
   To appear in **Digital Finance**  
+  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2009.06719) 
   [<span class="label label-grey">code</span>](https://github.com/mmin0/CNNSig)
-  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2009.06719)
 
 
 ### Master Thesis
