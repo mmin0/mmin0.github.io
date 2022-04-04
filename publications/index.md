@@ -19,7 +19,8 @@ title: Research
   [<span class="label label-grey">bib</span>](pmlr-v139-min21a.bib)
   
 * *Convolutional Signature for Sequential Data* (with Tomoyuki Ichiba) \
-  To appear in **Digital Finance**  
+  **Digital Finance, 2022**, Accepted  
+  [<span class="label label-grey">journal</span>](https://link.springer.com/article/10.1007/s42521-022-00049-7) 
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2009.06719) 
   [<span class="label label-grey">code</span>](https://github.com/mmin0/CNNSig)
 
