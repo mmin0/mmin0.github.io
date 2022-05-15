@@ -7,6 +7,7 @@ title: Research
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.09354)
 
 * *Sample-Efficient Reinforcement Learning with* loglog(T) *Switching Cost* (with Dan Qiao, Ming Yin, Yuxiang Wang)\
+  **International Conference on Machine Learning (ICML), 2021**, Accepted  
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.06385)
 
 
