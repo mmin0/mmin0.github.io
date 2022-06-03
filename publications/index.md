@@ -2,6 +2,11 @@
 layout: page
 title: Research
 ---
+### Ongoing research
+* *Deep Learning for Systemic Risk Measures*
+
+* *Neural Directed Chain Sochastic Differential Equations*
+
 ### Paper
 * *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba), submitted  
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.09354)
