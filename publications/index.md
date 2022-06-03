@@ -5,7 +5,7 @@ title: Research
 ### Ongoing research
 * *Deep Learning for Systemic Risk Measures*
 
-* *Neural Directed Chain Sochastic Differential Equations*
+* *Neural Sochastic Differential Equations*
 
 ### Paper
 * *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba), submitted  
