@@ -3,11 +3,12 @@ layout: page
 title: Research
 ---
 ### Ongoing research
-* *Deep Learning for Systemic Risk Measures*
-
 * *Neural Sochastic Differential Equations*
 
 ### Paper
+* *Deep Learning for Systemic Risk Measures* (with Yichen Feng, Jean-Pierre Fouque), submitted  
+  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2207.00739)
+  
 * *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba), submitted  
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.09354)
 
