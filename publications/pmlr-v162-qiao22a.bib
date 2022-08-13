@@ -1,0 +1,16 @@
+
+@InProceedings{pmlr-v162-qiao22a,
+  title = 	 {Sample-Efficient Reinforcement Learning with loglog({T}) Switching Cost},
+  author =       {Qiao, Dan and Yin, Ming and Min, Ming and Wang, Yu-Xiang},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {18031--18061},
+  year = 	 {2022},
+  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = 	 {162},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--23 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v162/qiao22a/qiao22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v162/qiao22a.html},
+  abstract = 	 {We study the problem of reinforcement learning (RL) with low (policy) switching cost {—} a problem well-motivated by real-life RL applications in which deployments of new policies are costly and the number of policy updates must be low. In this paper, we propose a new algorithm based on stage-wise exploration and adaptive policy elimination that achieves a regret of $\widetilde{O}(\sqrt{H^4S^2AT})$ while requiring a switching cost of $O(HSA \log\log T)$. This is an exponential improvement over the best-known switching cost $O(H^2SA\log T)$ among existing methods with $\widetilde{O}(\mathrm{poly}(H,S,A)\sqrt{T})$ regret. In the above, $S,A$ denotes the number of states and actions in an $H$-horizon episodic Markov Decision Process model with unknown transitions, and $T$ is the number of steps. As a byproduct of our new techniques, we also derive a reward-free exploration algorithm with a switching cost of $O(HSA)$. Furthermore, we prove a pair of information-theoretical lower bounds which say that (1) Any no-regret algorithm must have a switching cost of $\Omega(HSA)$; (2) Any $\widetilde{O}(\sqrt{T})$ regret algorithm must incur a switching cost of $\Omega(HSA\log\log T)$. Both our algorithms are thus optimal in their switching costs.}
+}
