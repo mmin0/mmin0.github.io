@@ -14,7 +14,9 @@ title: Research
 
 * *Sample-Efficient Reinforcement Learning with* loglog(T) *Switching Cost* (with Dan Qiao, Ming Yin, Yuxiang Wang)\
   **International Conference on Machine Learning (ICML), 2022**, Accepted  
+  [<span class="label label-grey">journal</span>](https://proceedings.mlr.press/v162/qiao22a.html)
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.06385)
+  [<span class="label label-grey">bib</span>](pmlr-v162-qiao22a.bib)
 
 
 * *Signatured Deep Fictitious Play for Mean Field Games with Common Noise* (with Ruimeng Hu)\
