@@ -6,7 +6,8 @@ title: Research
 * *Neural Sochastic Differential Equations*
 
 ### Paper
-* *Deep Learning for Systemic Risk Measures* (with Yichen Feng, Jean-Pierre Fouque), submitted  
+* *Deep Learning for Systemic Risk Measures* (with Yichen Feng, Jean-Pierre Fouque)\
+  **3rd ACM International Conference on AI in Finance (ICAIF), 2022**, Accepted  
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2207.00739)
   
 * *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba), submitted  
