@@ -2,8 +2,6 @@
 layout: page
 title: Research
 ---
-### Ongoing research
-* *Neural Sochastic Differential Equations*
 
 ### Paper
 * *Directed Chain Generative Adversarial Networks* (with Ruimeng Hu, Tomoyuki Ichiba)\
