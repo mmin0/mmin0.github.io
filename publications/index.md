@@ -6,6 +6,7 @@ title: Research
 ### Paper
 * *Directed Chain Generative Adversarial Networks* (with Ruimeng Hu, Tomoyuki Ichiba)\
   **International Conference on Machine Learning (ICML), 2023**, Accepted
+  [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2304.13131)
   
 * *Deep Learning for Systemic Risk Measures* (with Yichen Feng, Jean-Pierre Fouque)\
   **3rd ACM International Conference on AI in Finance (ICAIF), 2022**, Accepted  
