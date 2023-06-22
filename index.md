@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello! I’m Ming Min, a Ph.D. in Statistics and Applied Probability supervised by Professor Tomoyuki Ichiba at [Department of Statistics & Applied Probability](http://www.pstat.ucsb.edu), University of California, Santa Barbara, CA. I have done a Machine Learning Engineer 2022 summer internship at TikTok. After graduation, I will join TikTok as a full time Machine Learning Engineer.
+Hello! I’m Ming Min, a Ph.D. in Statistics and Applied Probability supervised by Professor Tomoyuki Ichiba at [Department of Statistics & Applied Probability](http://www.pstat.ucsb.edu), University of California, Santa Barbara, CA. I have done a Machine Learning Engineer 2022 summer internship at TikTok. 
 
 I'm interested in stochastic analysis and their application in Machine Learning, eg. develop efficient algorithm based on **Rough Path** theory to solve Mean Field Games with common noise\[[ICML'21](http://proceedings.mlr.press/v139/min21a.html)\], design novel time series generator by Directed Chain stochastic differential process etc. <!-- For more details, please check my [CV](cv-2021.pdf). -->   
 
