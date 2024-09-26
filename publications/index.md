@@ -12,7 +12,9 @@ title: Research
   **3rd ACM International Conference on AI in Finance (ICAIF), 2022**, Accepted  
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2207.00739)
   
-* *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba), submitted  
+* *Smoothness of Directed Chain Stochastic Differential Equations* (with Tomoyuki Ichiba)\
+  **Electronic Journal of Probability**  
+  [<span class="label label-grey">journal</span>](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-29/issue-none/Smoothness-of-directed-chain-stochastic-differential-equations/10.1214/24-EJP1192.full)
   [<span class="label label-grey">arXiv</span>](https://arxiv.org/abs/2202.09354)
 
 * *Sample-Efficient Reinforcement Learning with* loglog(T) *Switching Cost* (with Dan Qiao, Ming Yin, Yuxiang Wang)\
